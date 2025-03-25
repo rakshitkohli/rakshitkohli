@@ -15,7 +15,7 @@ I'm a **Software Testing Engineer** passionate about automation testing, CI/CD, 
 
 
 # Featured Projects
-[Selenium-PyTest Framework](https://github.com/yourusername/selenium-pytest-framework) - A scalable Selenium framework with parallel execution, Docker setup, and Allure reports.    
+[Selenium-PyTest Framework](https://github.com/rakshitkohli/selenium-test-framework) - A scalable Selenium framework with parallel execution, Docker setup, and Allure reports.    
 
 
 # Connect with Me
