@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Rakshit Kohli!
 
-<!--
-**rakshitkohli/rakshitkohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# About Me
+I'm a **Software Testing Engineer** passionate about automation testing, CI/CD, and building scalable test frameworks. Currently, I'm transitioning from manual testing to automation, focusing on **Selenium, API testing, performance testing**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Tech Stack
+- **Automation:** Selenium, PyTest, Page Object Model (POM), Robot Framework  
+- **Programming:** Python, JavaScript  
+- **API Testing:** Postman, REST Assured  
+- **CI/CD & DevOps:** Jenkins, Docker, GitHub Actions  
+- **Performance Testing:** JMeter, Locust  
+- **Cloud & Infra:** AWS, Kubernetes (Basics)  
+
+
+# Featured Projects
+[Selenium-PyTest Framework](https://github.com/yourusername/selenium-pytest-framework) - A scalable Selenium framework with parallel execution, Docker setup, and Allure reports.    
+
+
+# Connect with Me
+- [LinkedIn](https://linkedin.com/in/rakshitkohli)  
+
+
+🚀 Always exploring new testing strategies and automation tools! Let's connect and grow together.
+
